@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head> 
+   <style>
+   
+      #myHeader {
+      background-color:#d6e0eb;
+      color: #336699 ;
+      padding: 20px;
+      text-align: center;
+      border-radius: 40px 500px; border: solid, black">
+    </style>
+
+    <title>FERIA DE CIENCIAS</title>
+</head>
+<body>
+    <h1 id="myHeader">INDICE <div style="font-family: 'Tangerine', serif;"></h1> 
+    <div class="cajas" id="contenido1">
+    <nav>
+        <a href="Colours.html">Colors</a> |
+        <a href="Numbers.html">Numbers till 100</a> |
+        <a href="There.html">There is/are</a> |
+        <a href="Indefinite Article">Indefinite Article</a> |
+        <a href="Personalpronouns.html">Personal pronouns and Posessive</a> |
+        <a href="Simple past.html">Adjetives</a> |
+        <a href="Adjetivos.html">Numbers</a> |
+        <a href="Tiemposverbales.html">Verbo to be </a>
+        <a href="Verbotobe.html">To have</a>|
+        <a href="Simplepresents">Simple present 1st and 3rd person</a>
+        
+      </nav>
+    </div>
+
+
+    <div class="cajas">
+        <h1>Tituloejemplo</h1>
+        <p>textopruebatextopruebatexto prueba</p>
+    </div>
+    <footer>
+        <div class="cajas" id="pie">
+            <p>copy@: Macarena S. Aguirre / Msaguirre@escuelaproa.edu.ar</p>
+            <p> Todos los derechos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
